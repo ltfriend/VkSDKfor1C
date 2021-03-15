@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="07250bc0-afa7-4b2d-beb8-fbea5d983296" configVersion="9646684f81c66e49a209101a037bb16e00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="07250bc0-afa7-4b2d-beb8-fbea5d983296.0" configVersion="7825993f47a7e44998e4d5463f58671c00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер" id="c55a3cb0-47a1-4f59-b34a-98efcc4a6637" configVersion="9ea099c645f9c24fae2b32c70fc901d700000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="c55a3cb0-47a1-4f59-b34a-98efcc4a6637.0" configVersion="28bfb117cbe0014d902d50bc47a4a83f00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПереопределяемый" id="97ad3c8e-58c1-4ce8-8f8d-766793383a8d" configVersion="ffb26c9f3d7e524c84ac70718a3a6af500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПереопределяемый.Module" id="97ad3c8e-58c1-4ce8-8f8d-766793383a8d.0" configVersion="cf564cf7ebe01344ba6c77a1303be42300000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыПовтИсп" id="649fe155-746f-4e48-bb59-8b6893be938f" configVersion="77172241aa08d647bbd8bcb28e9a453500000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыПовтИсп.Module" id="649fe155-746f-4e48-bb59-8b6893be938f.0" configVersion="acb9de3025e3ef458163c87f53f2cc2800000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="e4e50023-33dc-4d92-8034-5195e5825a44" configVersion="0db6f622671aa14c9653c98cf773d42900000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="e4e50023-33dc-4d92-8034-5195e5825a44.0" configVersion="f32f3e6f50a97646b06af487841fdb2500000000"/>
+		<Metadata name="CommonPicture.ВКонтакте" id="f2100e3e-81f0-4918-95fa-75503d93a28a" configVersion="fbc2ce2144f34041a7fc19aacf86713400000000"/>
+		<Metadata name="CommonPicture.ВКонтакте.Picture" id="f2100e3e-81f0-4918-95fa-75503d93a28a.0" configVersion="e8714051fcd169418e14673cba6a460600000000"/>
+		<Metadata name="Configuration.ДемонстрационнаяКонфигурацияИнтеграцииСВК" id="8a14c890-d698-407c-8bde-60889b10347f" configVersion="fa67f993f7a2924090cf6b06cdb55d4400000000"/>
+		<Metadata name="Configuration.ДемонстрационнаяКонфигурацияИнтеграцииСВК.ClientApplicationInterface" id="de7d8074-2a62-48a8-bfe3-5c165f03fa23.b" configVersion="1adbaa570316924f82fb61677340e5da00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК" id="69e8a046-309f-4b1a-b654-02af1265743e" configVersion="15098817f64dd5489dd448e1f243473900000000">
+			<Metadata name="DataProcessor.ДемонстрацияAPIВК.Command.ДобавлениеТовара" id="64fb1a37-c316-41cb-947b-14cb8501e798"/>
+			<Metadata name="DataProcessor.ДемонстрацияAPIВК.Command.РазмещениеЗаписиНаСтене" id="c4528c1e-ca82-414b-920a-bd7681435a23"/>
+			<Metadata name="DataProcessor.ДемонстрацияAPIВК.Command.ЗагрузкаФотографииВАльбом" id="ed4b0a39-5192-4b4e-bfce-b7d68f6a5720"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Command.ДобавлениеТовара.CommandModule" id="64fb1a37-c316-41cb-947b-14cb8501e798.2" configVersion="572de7dbf6177149b82fec8a9ae7608b00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Command.ЗагрузкаФотографииВАльбом.CommandModule" id="ed4b0a39-5192-4b4e-bfce-b7d68f6a5720.2" configVersion="c0a07b1dc6ccfa49a6cf5a03f0cef4f000000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Command.РазмещениеЗаписиНаСтене.CommandModule" id="c4528c1e-ca82-414b-920a-bd7681435a23.2" configVersion="e5a7e6995453ee4dbd7fbf32deaacf9300000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.ДобавлениеТовара" id="cb9aeb4b-3dc7-48a1-bcdc-d9d06499be3b" configVersion="c4cd8d8e2183704497624c587f309a6e00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.ДобавлениеТовара.Form" id="cb9aeb4b-3dc7-48a1-bcdc-d9d06499be3b.0" configVersion="6a80ba15b175c5479a53c666faf2f05300000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.ДобавлениеТовара.Help" id="cb9aeb4b-3dc7-48a1-bcdc-d9d06499be3b.1" configVersion="d40a23901aaff14ea923d5ee112d5bdf00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.ЗагрузкаФотографииВАльбом" id="e3e5768a-f870-4497-bb8e-07dbf5f26ffa" configVersion="14ab21675515c343bccd50e8114be6c600000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.ЗагрузкаФотографииВАльбом.Form" id="e3e5768a-f870-4497-bb8e-07dbf5f26ffa.0" configVersion="5a27626c34b13248920d3434add03e3600000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.ЗагрузкаФотографииВАльбом.Help" id="e3e5768a-f870-4497-bb8e-07dbf5f26ffa.1" configVersion="a25b258285acfe4c95ffdd932a4b5fac00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.РазмещениеЗаписиНаСтене" id="e5717eb9-f9e9-4062-91aa-1911862196ab" configVersion="776f0729b0d308488c97ee536d09994d00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.РазмещениеЗаписиНаСтене.Form" id="e5717eb9-f9e9-4062-91aa-1911862196ab.0" configVersion="6f57a720b3d77e40940b66fb5709f2ad00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.РазмещениеЗаписиНаСтене.Help" id="e5717eb9-f9e9-4062-91aa-1911862196ab.1" configVersion="8d1098c0c07bdc498d90fa1b0b3a4dd800000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.Форма" id="e4dfc121-9fd2-473b-9693-d45296f6260d" configVersion="8a623e68d054c644a2bdd6e2a96655bd00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.Форма.Form" id="e4dfc121-9fd2-473b-9693-d45296f6260d.0" configVersion="2e1aae5e68fd3e4eb4b7c2b957d1a7a000000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Form.Форма.Help" id="e4dfc121-9fd2-473b-9693-d45296f6260d.1" configVersion="ac0df8fd3755ab46a938a0b9b1d9b24700000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.Help" id="69e8a046-309f-4b1a-b654-02af1265743e.1" configVersion="dd1a8c8802b14f409035150580b938b900000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.ManagerModule" id="69e8a046-309f-4b1a-b654-02af1265743e.2" configVersion="beaa8b926689484b8d52e8f50f17453d00000000"/>
+		<Metadata name="DataProcessor.ДемонстрацияAPIВК.ObjectModule" id="69e8a046-309f-4b1a-b654-02af1265743e.0" configVersion="c6fc9e3664a12f46887214b6e207903c00000000"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК" id="92e422f6-5afd-45f1-a1b4-e8eaa9cf1f43" configVersion="78c63a32b038584fa7620545c07303fc00000000">
+			<Metadata name="DataProcessor.ПанельАдминистрированияВК.Command.НастройкаПодключения" id="a711beb1-f4d6-4338-b981-31cd85cf65c7"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК.Command.НастройкаПодключения.CommandModule" id="a711beb1-f4d6-4338-b981-31cd85cf65c7.2" configVersion="d0e15201fb0ecc42a46d2bfc97d4c8c700000000"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК.Form.ВыборПравДоступа" id="4ee2dd61-d879-4f62-a992-e2bb8ab8f177" configVersion="758565eb0ffdea4ca57128aee9f5aac600000000"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК.Form.ВыборПравДоступа.Form" id="4ee2dd61-d879-4f62-a992-e2bb8ab8f177.0" configVersion="bc7361e35bff344a8ae5a4354135d43d00000000"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК.Form.НастройкаПодключения" id="bb2c64ad-081d-4a20-ae05-51e4de63d884" configVersion="0fa5e25ec0c5154d8f38cc14148b21a400000000"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК.Form.НастройкаПодключения.Form" id="bb2c64ad-081d-4a20-ae05-51e4de63d884.0" configVersion="42ca12d533af964d9ec92dac6d7f49a800000000"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК.Form.Форма" id="f3e7e8a3-adb5-468f-8020-0ffaa97b26b4" configVersion="7e0a038bedd4924986b7c49c179f513800000000"/>
+		<Metadata name="DataProcessor.ПанельАдминистрированияВК.Form.Форма.Form" id="f3e7e8a3-adb5-468f-8020-0ffaa97b26b4.0" configVersion="07f7004ed2d9b743ab219b29fad4fb1b00000000"/>
+		<Metadata name="InformationRegister.БезопасноеХранилищеДанных" id="a94ddc80-9d0f-48e3-b3f8-cc430d76d85b" configVersion="16210c40e875474796471d33df537b7100000000">
+			<Metadata name="InformationRegister.БезопасноеХранилищеДанных.Resource.Данные" id="5bb759fc-5b44-4a9c-89c2-a9dc9f55dcb4"/>
+			<Metadata name="InformationRegister.БезопасноеХранилищеДанных.Dimension.Владелец" id="7ef31405-9c12-4b43-87dc-74f213741860"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="38984cb7-9a24-47cc-afaa-cbb7e0d60c7f" configVersion="3aeefa5cfea8d5409e339339b1b1fc8000000000"/>
+		<Metadata name="Role.ПолныеПрава" id="e8c3c687-e776-4512-919a-a1c4ef0099aa" configVersion="9ff0cb07d05e424da5288c60e7e381de00000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="e8c3c687-e776-4512-919a-a1c4ef0099aa.0" configVersion="4a57be66bf49e745b7366526d31886ba00000000"/>
+		<Metadata name="StyleItem.ЦветТекстаАктуальныйКлючДоступа" id="8c38b7ad-2c88-4b55-ae1d-a219ea15d9a1" configVersion="38735fe382b648499d5fdc3365bd117c00000000"/>
+		<Metadata name="StyleItem.ЦветТекстаКлючДоступаПросрочен" id="75cde3f9-e232-4444-920d-422c1362ef42" configVersion="58c3a0f10df60f43ae82516fa8d35d7f00000000"/>
+		<Metadata name="StyleItem.ЦветТекстаНеобходимаАвторизация" id="fa349c15-44b0-4b34-adaa-a100d282e947" configVersion="59d7434ed8eec1439cca1ee75d012a7900000000"/>
+		<Metadata name="Subsystem.ВКонтакте" id="bc4638ab-5bba-41da-9b9a-aeb3722fbaa7" configVersion="6d42fd2bd9c7b844ab2dcd8fd281476900000000"/>
+		<Metadata name="Subsystem.ВКонтакте.CommandInterface" id="bc4638ab-5bba-41da-9b9a-aeb3722fbaa7.1" configVersion="db633a8a7ea9fa45ac23574aa9c242bb00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
